@@ -1,5 +1,5 @@
-# Adam El Zahiri — Portfolio
+# Adam El Zahiri — CV
 
-This repository contains my portfolio. It provides detailed information and evidence about my specialties, experience, and skills in software development.
+This repository contains my CV.
 
-View the website: [adam-elzahiri.github.io](https://adam-elzahiri.github.io/)
+View the CV: [adam-elzahiri.github.io](https://adam-elzahiri.github.io/)
